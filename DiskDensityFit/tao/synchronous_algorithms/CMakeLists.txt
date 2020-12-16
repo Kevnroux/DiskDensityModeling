@@ -1,0 +1,2 @@
+add_library(synchronous_algorithms parameter_sweep synchronous_gradient_descent synchronous_newton_method gradient line_search)
+target_link_libraries(synchronous_algorithms tao_util)

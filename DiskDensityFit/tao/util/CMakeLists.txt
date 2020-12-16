@@ -1,0 +1,9 @@
+add_library(tao_util recombination statistics matrix hessian newton_step tao_random vector_io arguments)
+
+add_executable(matrix_mul_test matrix)
+target_link_libraries(matrix_mul_test tao_util)
+set_target_properties(matrix_mul_test PROPERTIES COMPILE_FLAGS -DMATRIX_MUL_TEST)
+
+add_executable(matrix_inverse_test matrix)
+target_link_libraries(matrix_inverse_test tao_util)
+set_target_properties(matrix_inverse_test PROPERTIES COMPILE_FLAGS -DMATRIX_INVERSE_TEST)
