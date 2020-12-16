@@ -1,0 +1,8 @@
+./Density_Program/DiskFit 0 /mnt/c/Users/Chris\ Huang/Documents/Research/Updated\ Build/SDSS/smallresults_NEW/ /mnt/c/Users/Chris\ Huang/Documents/Research/Updated\ Build/SDSS/smalldata/smallsdss12.5.csv
+
+
+
+./Density_Program/DiskFit 0 /mnt/c/Users/Chris\ Huang/Documents/Research/Updated\ Build/SDSS/smallresults_NEW/ /mnt/c/Users/Chris\ Huang/Documents/Research/Updated\ Build/SDSS/smalldata/smallsdss12.5.csv /mnt/c/Users/Chris\ Huang/Documents/Research/Updated\ Build/SDSS/smalldata/smallsdss17.5.csv /mnt/c/Users/Chris\ Huang/Documents/Research/Updated\ Build/SDSS/smalldata/smallsdss22.5.csv /mnt/c/Users/Chris\ Huang/Documents/Research/Updated\ Build/SDSS/smalldata/smallsdss27.5.csv /mnt/c/Users/Chris\ Huang/Documents/Research/Updated\ Build/SDSS/smalldata/smallsdssneg12.5.csv /mnt/c/Users/Chris\ Huang/Documents/Research/Updated\ Build/SDSS/smalldata/smallsdssneg17.5.csv /mnt/c/Users/Chris\ Huang/Documents/Research/Updated\ Build/SDSS/smalldata/smallsdssneg22.5.csv /mnt/c/Users/Chris\ Huang/Documents/Research/Updated\ Build/SDSS/smalldata/smallsdssneg27.5.csv
+
+
+
